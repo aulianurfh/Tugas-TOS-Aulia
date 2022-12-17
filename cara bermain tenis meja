@@ -13,4 +13,3 @@ Permainan Ganda
 -Pemain bergiliran menangkap bola.
 -Server hanya dapat menempatkan bola di ruangan sisi kanan lawan.
 -Sebuah permainan berakhir ketika seorang pemain mencetak 11 poin, dan menang jika memenangkan 3 atau 4 kali set kemenangan.
--Jika seri, dan selisihnya 2, maka permainan berakhir. Misalnya: 13-11, 15-17.
