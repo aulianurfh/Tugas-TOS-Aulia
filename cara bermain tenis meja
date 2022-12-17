@@ -6,7 +6,7 @@ Permainan Tunggal
 -Server dapat dengan bebas melepaskan bola dari seluruh penjuru lapangan.
 -Akhiri permainan saat skor pemain mencapai 11 poin, dan kemenangan saat mencapai 3 dan 4 kali set memenangkan permainan.
 -Jika seri, dan selisihnya 2, maka permainan berakhir. Misalnya: 15-13, 18-1
--Poin yang paling tinggi itu adalah pemenang dari pertandingan tersebut.
+
 
 Permainan Ganda
 -Satu poin untuk setiap bola mati.
@@ -16,3 +16,4 @@ Permainan Ganda
 -Sebuah permainan berakhir ketika seorang pemain mencetak 11 poin, dan menang jika memenangkan 3 atau 4 kali set kemenangan.
 -Jika seri, dan selisihnya 2, maka permainan berakhir. Misalnya: 13-11, 15-17.
 -Poin yang paling tinggi itu adalah pemenang dari pertandingan tersebut.
+-Permainan selesai.
